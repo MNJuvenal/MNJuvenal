@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MALECOU_NGUIMBI_Juvenal
+- 👀 Everything related to new computer technologies interests me...
+- 🌱 I am a student in computer engineering at UVSQ Paris Saclay...
+- 📫 I can be reached by email at njuvenal62@gmail.com :)...
+
+<!---
+MNJuvenal/MNJuvenal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
